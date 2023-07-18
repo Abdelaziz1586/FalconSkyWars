@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FalconSkyWars:jar">
+    <output-path>$USER_HOME$/Desktop/TestServer/Server/plugins</output-path>
+    <root id="archive" name="FalconSkyWars.jar">
+      <element id="module-output" name="FalconSkyWars" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/fr/mrmicky/fastboard/1.2.1/fastboard-1.2.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

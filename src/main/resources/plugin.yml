@@ -1,0 +1,9 @@
+name: FalconSkyWars
+version: '${project.version}'
+main: me.pebbleprojects.falconskywars.FalconSkyWars
+authors: [FalconMCDevs]
+description: SkyWars made for FalconMC
+commands:
+  sw:
+    description: Main command for SkyWars
+load: POSTWORLD
